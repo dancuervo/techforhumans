@@ -1,0 +1,25 @@
+{
+  "name": "techforhumans",
+  "version": "1.0.0",
+  "description": "node project to new site",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dancuervo/techforhumans.git"
+  },
+  "author": "daniel cenoz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dancuervo/techforhumans/issues"
+  },
+  "homepage": "https://github.com/dancuervo/techforhumans#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
