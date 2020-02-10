@@ -1,6 +1,11 @@
 const express = require('express')
 
-module.exports = {
-    app : express(),
-    port : 21006,
+module.exports.app = ()=>{
+    return express()
+}
+module.exports.port = ()=>{
+    return "21006"
+}
+module.exports.express = ()=>{
+    return express
 }

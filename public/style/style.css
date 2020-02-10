@@ -1,0 +1,14 @@
+/* Make element full width */
+body{
+    background-color: #F2EEDA;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  .text-center{
+      text-align: center;
+  }
+  
